@@ -13,3 +13,8 @@ Why I made it
 I wanted to practice Java basics like Scanner, variables, math, and printing results.  
 It’s nothing crazy but it works and I am going to add some loops, put it in GUI, and maybe add saving data 
 so stick around because part 2 is coming on github soon near you.
+
+                                                    Update 1 verison
+                                              -----------------------------
+The update 1 verison lets you add  unlimited expenses instead of being limited to 5. Uses loops to handle input dynamically reducing repeated code.
+Stores expenses in ArrayLists for easier calculations and scalability. Calculates total, average, and remaining balance automatically.
